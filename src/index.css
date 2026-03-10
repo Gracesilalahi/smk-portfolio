@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Pastikan background sesuai dengan warna krem di gambar */
+body {
+  background-color: #fbf9f0;
+  font-family: sans-serif;
+}
